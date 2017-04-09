@@ -1,37 +1,8 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            76.4208984375,
-            12.908198108318507
-          ],
-          [
-            77.6129150390625,
-            12.908198108318507
-          ],
-          [
-            77.6129150390625,
-            12.88677980084704
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.1767529,
-          13.1126747
-        ]
-      },
+  "features": 
+  [
+   
       "properties": {
         "marker-color": "#0000ff",
         "marker-size": "medium",
